@@ -18,6 +18,6 @@ This dashboard provides interactive charts, tables, and metrics to help traders,
 
 ---
 
-![Crypto Sales Dashboard](docs/screenshot.png)
-![Crypto Sales Dashboard](docs/screenshot.png)
+![Crypto Sales Dashboard](https://github.com/KeshavBandil-20/CryptoCurrency-Marketcap-Dashboard/blob/ca44ccc6ce6d2f1a4213209fae980fed4a835292/Screenshot%202025-08-05%20010414.png)
+(docs/screenshot.png)
 
