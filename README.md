@@ -18,4 +18,6 @@ This dashboard provides interactive charts, tables, and metrics to help traders,
 
 ---
 
+![Crypto Sales Dashboard](docs/screenshot.png)
+![Crypto Sales Dashboard](docs/screenshot.png)
 
