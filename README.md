@@ -19,5 +19,6 @@ This dashboard provides interactive charts, tables, and metrics to help traders,
 ---
 
 ![Crypto Sales Dashboard](https://github.com/KeshavBandil-20/CryptoCurrency-Marketcap-Dashboard/blob/ca44ccc6ce6d2f1a4213209fae980fed4a835292/Screenshot%202025-08-05%20010414.png)
-([Crypto Sales Dashboard](https://github.com/KeshavBandil-20/CryptoCurrency-Marketcap-Dashboard/blob/e5ea17275d84bbbcf30027bba42da0e41e945153/Screenshot%202025-08-05%20010508.png))
+![Crypto Sales Dashboard](https://github.com/KeshavBandil-20/CryptoCurrency-Marketcap-Dashboard/blob/4d50688b57fd166b377323cd456724576d906175/Screenshot%202025-08-05%20010508.png)
+
 
